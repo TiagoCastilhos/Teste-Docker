@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\TesteDocker.Data\TesteDocker.Data.csproj" />
+    <ProjectReference Include="..\TesteDocker.Data.Abstractions\TesteDocker.Data.Abstractions.csproj" />
+    <ProjectReference Include="..\TesteDocker.Entities\TesteDocker.Entities.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+</Project>

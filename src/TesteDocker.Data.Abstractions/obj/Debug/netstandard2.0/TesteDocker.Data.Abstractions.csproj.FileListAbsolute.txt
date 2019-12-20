@@ -1,0 +1,11 @@
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Data.Abstractions\bin\Debug\netstandard2.0\TesteDocker.Data.Abstractions.deps.json
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Data.Abstractions\bin\Debug\netstandard2.0\TesteDocker.Data.Abstractions.dll
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Data.Abstractions\bin\Debug\netstandard2.0\TesteDocker.Data.Abstractions.pdb
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Data.Abstractions\obj\Debug\netstandard2.0\TesteDocker.Data.Abstractions.csprojAssemblyReference.cache
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Data.Abstractions\obj\Debug\netstandard2.0\TesteDocker.Data.Abstractions.AssemblyInfoInputs.cache
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Data.Abstractions\obj\Debug\netstandard2.0\TesteDocker.Data.Abstractions.AssemblyInfo.cs
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Data.Abstractions\obj\Debug\netstandard2.0\TesteDocker.Data.Abstractions.dll
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Data.Abstractions\obj\Debug\netstandard2.0\TesteDocker.Data.Abstractions.pdb
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Data.Abstractions\bin\Debug\netstandard2.0\TesteDocker.Entities.dll
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Data.Abstractions\bin\Debug\netstandard2.0\TesteDocker.Entities.pdb
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Data.Abstractions\obj\Debug\netstandard2.0\TesteDocker.Data.Abstractions.csproj.CopyComplete

@@ -1,0 +1,142 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TesteDocker.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "TesteDocker.Data.Abstractions": "1.0.0",
+          "TesteDocker.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TesteDocker.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TesteDocker.Data.dll": {}
+        }
+      },
+      "TesteDocker.Data.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "TesteDocker.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TesteDocker.Data.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TesteDocker.Data.Abstractions.dll": {}
+        }
+      },
+      "TesteDocker.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TesteDocker.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TesteDocker.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteDocker.Data/1.0.0": {
+      "type": "project",
+      "path": "../TesteDocker.Data/TesteDocker.Data.csproj",
+      "msbuildProject": "../TesteDocker.Data/TesteDocker.Data.csproj"
+    },
+    "TesteDocker.Data.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../TesteDocker.Data.Abstractions/TesteDocker.Data.Abstractions.csproj",
+      "msbuildProject": "../TesteDocker.Data.Abstractions/TesteDocker.Data.Abstractions.csproj"
+    },
+    "TesteDocker.Entities/1.0.0": {
+      "type": "project",
+      "path": "../TesteDocker.Entities/TesteDocker.Entities.csproj",
+      "msbuildProject": "../TesteDocker.Entities/TesteDocker.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "TesteDocker.Data >= 1.0.0",
+      "TesteDocker.Data.Abstractions >= 1.0.0",
+      "TesteDocker.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tiago.castilhos\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\tiago.castilhos\\Desktop\\Pessoais\\Docker\\src\\TesteDocker\\TesteDocker.csproj",
+      "projectName": "TesteDocker",
+      "projectPath": "C:\\Users\\tiago.castilhos\\Desktop\\Pessoais\\Docker\\src\\TesteDocker\\TesteDocker.csproj",
+      "packagesPath": "C:\\Users\\tiago.castilhos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tiago.castilhos\\Desktop\\Pessoais\\Docker\\src\\TesteDocker\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\tiago.castilhos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nugetgallery-webapp.azurewebsites.net/api/v2/curated-feeds/ti-master": {},
+        "https://promob-dev.pkgs.visualstudio.com/_packaging/Promob/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\tiago.castilhos\\Desktop\\Pessoais\\Docker\\src\\TesteDocker.Data.Abstractions\\TesteDocker.Data.Abstractions.csproj": {
+              "projectPath": "C:\\Users\\tiago.castilhos\\Desktop\\Pessoais\\Docker\\src\\TesteDocker.Data.Abstractions\\TesteDocker.Data.Abstractions.csproj"
+            },
+            "C:\\Users\\tiago.castilhos\\Desktop\\Pessoais\\Docker\\src\\TesteDocker.Data\\TesteDocker.Data.csproj": {
+              "projectPath": "C:\\Users\\tiago.castilhos\\Desktop\\Pessoais\\Docker\\src\\TesteDocker.Data\\TesteDocker.Data.csproj"
+            },
+            "C:\\Users\\tiago.castilhos\\Desktop\\Pessoais\\Docker\\src\\TesteDocker.Entities\\TesteDocker.Entities.csproj": {
+              "projectPath": "C:\\Users\\tiago.castilhos\\Desktop\\Pessoais\\Docker\\src\\TesteDocker.Entities\\TesteDocker.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

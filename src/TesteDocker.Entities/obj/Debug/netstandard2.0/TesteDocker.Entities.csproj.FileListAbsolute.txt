@@ -1,0 +1,8 @@
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Entities\bin\Debug\netstandard2.0\TesteDocker.Entities.deps.json
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Entities\bin\Debug\netstandard2.0\TesteDocker.Entities.dll
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Entities\bin\Debug\netstandard2.0\TesteDocker.Entities.pdb
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Entities\obj\Debug\netstandard2.0\TesteDocker.Entities.csprojAssemblyReference.cache
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Entities\obj\Debug\netstandard2.0\TesteDocker.Entities.AssemblyInfoInputs.cache
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Entities\obj\Debug\netstandard2.0\TesteDocker.Entities.AssemblyInfo.cs
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Entities\obj\Debug\netstandard2.0\TesteDocker.Entities.dll
+C:\Users\tiago.castilhos\Desktop\Pessoais\Docker\src\TesteDocker.Entities\obj\Debug\netstandard2.0\TesteDocker.Entities.pdb
