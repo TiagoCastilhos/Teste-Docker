@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: customers-api
+    namespace: default
+spec: 
+    replicas: 1
+    selector:
+        matchLabels:
+            customersapi: web
+    template:
+        metadata:
+            labels:
+                customersapi: web
+        spec:
+            containers:
+            - name: customersapi
+              image: customersapi:1.0
+---
+apiVersion: v1
+kind: Service
+metadata:
+    name: customersapi-entrypoint
+    namespace: default
+spec: 
+    type: NodePort
+    selector: 
+        customersapi: web
+    ports:
+    - port: 80      
+      nodePort: 30001

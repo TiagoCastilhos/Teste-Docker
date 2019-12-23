@@ -1,5 +1,4 @@
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build
-EXPOSE 5000-5001
 WORKDIR /build
 
 COPY TesteDocker.sln .
